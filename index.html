@@ -74,7 +74,11 @@
 			onEachFeature: function(feature, layer){
 				var p = layer.feature.properties;
 				p.index = p.item + " | " + p.donor_id + " | " + p.dedi_id + " | " + p.inscription;
-				layer.bindPopup('<img class ="tooltip-img" src = "/images/' + feature.properties.img_src + '" >' + '<h1>Dedicated to '+feature.properties.dedi_id+'</h1><h2>Given by ' + feature.properties.donor_id+'</h2>'  + feature.geometry.coordinates),
+				//only try to display image if there's an image source
+				if (p.img_src != ''){
+					var img = '<img class ="tooltip-img" src = "images/' + p.img_src + '" >'
+				} else img = '<img style="display:none">';
+				layer.bindPopup(img + '<h1>Dedicated to '+feature.properties.dedi_id+'</h1><h2>Given by ' + feature.properties.donor_id+'</h2>'  + feature.geometry.coordinates),
 				layer.setIcon(objIcon)
 			}
 
@@ -89,7 +93,11 @@
 				onEachFeature: function(feature, layer) {
 					var q = layer.feature.properties;
 					q.index = q.item + " | " + q.donor_id + " | " + q.dedi_id + " | " + q.inscription;
-						layer.bindPopup('<img class ="tooltip-img" src = "/images/' + feature.properties.img_src + '" ><h1>' + feature.properties.item +  '</h1><h2>Dedicated to ' + feature.properties.dedi_id + '</h2><h2>Given by ' + feature.properties.donor_id + '</h2>'),
+					//only try to display image if there's an image source
+					if (q.img_src != ''){
+						var img = '<img class ="tooltip-img" src = "images/' + q.img_src + '" >'
+					} else img = '<img style="display:none">';
+					layer.bindPopup(img + '<h1>' + feature.properties.item +  '</h1><h2>Dedicated to ' + feature.properties.dedi_id + '</h2><h2>Given by ' + feature.properties.donor_id + '</h2>'),
 								layer.setIcon(treeIcon)
 				}
 		}).addTo(mymap);
