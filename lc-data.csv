@@ -1,4 +1,4 @@
-donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,arbor_note
+donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,Arbor note
 0,,Wildflower Meadow,Class of 1966,Mary E. Daubenspeck '66,,40.025603,-75.312917,object,no,
 1,,Stone Gates,,"Anne Leigh Hobson Broughton '30, MA '36","Gates given in honor of / Anne Leigh Hobson Broughton '30, MA '36 / Director of Admissions 1943-1965",40.024166,-75.313455,object,no,
 2,,Shillingford Field,BMC,Jenepher P. Shillingford,"Shillingford Field / Named in honor of / Jenepher P. Shillingford / for her contributions as field hockey coach / and director of athletics & physical education / for over twenty years / October 25, 1998  ",40.028535,-75.315949,object,no,
@@ -62,56 +62,56 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 63,LC_63.png,Portico,,"Adelaide W. Neall, Class of 1906","This portico / Links / The Deanery and Wyndham / in tribute to / Adelaide W. Neall / Class of 1906 / whose imaginative energy gave much to the life and spirit of The Deanery, first alumnae house of Bryn Mawr College",40.025539,-75.312943,object,no,
 64,LC_64.png,Lanterns,BMC Alumnae/i,,The alumnae/i of Bryn Mawr College / dedicate these lanterns to / the glory of Bryn Mawr / past and future,40.024166,-75.313455,object,no,
 65,,Plaque,,Seymour Adelman,,40.027206,-75.314324,object,no,
-66,,Garden,,Virginia E. Mertz 1937-77,,40.026462,-75.311635,object,no,1250
-101,LC_101.png,Weeping Cherry (Prunus subhirtella pendula),Class of 1956,Class of 1956,,40.026524,-75.313885,tree,no,
-102,,Weeping Cherry (Prunus subhirtella pendula),Class of 1957,Class of 1957,,0,0,tree,no,
-103,LC_103.png,Cut-Leaf Beech (Fagus sylvatica 'Laciniata'),Class of 1958,Class of 1958,In Memory of / Our Classmates / Class of 1958 / May 1999,40.027552,-75.312567,tree,no,150
-104,LC_104.png,Japanese Maple (Acer palmatum),,Alice Turner '60,,40.024705,-75.313791,tree,no,1256
-105,,White Oak (Quercus alba),Class of 1960,Class of 1960,,0,0,tree,no,
-106,LC_106.png,Frontier Elm (Ulmus 'Frontier'),Barbara Paul Robinson '62,Class of 1962 50th Reunion,,40.028026,-75.313241,tree,no,
-107,,Weeping Hemlock (Tsuga canadensis),Class of 1966,Class of 1966,,0,0,tree,no,
-108,,Star Magnolia (Magnolia stellata),Class of 1968,Class of 1968,,40.26948,-75.312763,tree,no,142
-109,,White Oak (Quercus alba),Class of 1954,Elsie Kemp Schmitz '54,,40.027676,-75.315472,tree,no,391
-110,,Japanese Snowbell (Styrax japonica),Class of 1974,Class of 1974,,40.02596,-75.31457,tree,no,
-111,,Spruce (Picea),,Ernest J. Gallo,,0,0,tree,no,
-112,,Sourwood (Oxydendrum arboreum),Susan Brock and Anne Warwick,Anne Murney '80,,0,0,tree,no,
-113,,Red Oak (Quercus rubra),Class of 1917,Class of 1917,,0,0,tree,no,
-114,,Pin Oak (Quercus palustris),Class of 1987,Class of 1987,Gift of the Class of 1987 / 'AKOUE',40.026913,-75.312779,tree,no,
-115,,White Oak (Quercus alba),Class of 1960,Class of 1960,,0,0,tree,no,
-116,,Callery Pear (Pyrus calleryane),Class of 1934,Class of 1934,,40.025496,-75.312488,tree,no,629
-117,LC_117.png,Weeping Cherry (Prunus subhirtella pendula),Class of 1964,Class of 1964,Prunus subhirtella 'Pendula' / Weeping Higan Cherry / Celebrating the 50th Reunion / Class of 1964,40.026641,-75.313667,tree,no,310
-118,LC_118.png,Weeping Cherry (Prunus subhirtella pendula),,Susan Kelly Barnes '76,"Prunus subhirtella 'Pendula' / Weeping Cherry Tree / Susan Kelly Barnes '76 / Bryn Mawr College Board of Trustees 1996-2016 / in recognition of her leadership, strategic vision, and financial acumen",40.026719,-75.313615,tree,no,
-119,LC_119.png,Okame Cherry (Prunus 'Okame'),Class of 1956,Class of 1956,,40.02774,-75.31311,tree,no,326
-120,,Magnolia macrophylia (replaced 2018),Class of 1900,Class of 1900,,40.027085,-75.312806,tree,no,1271
-121,LC_121.png,Frontier Elm (Ulmus 'Frontier'),Class of 1970,Class of 1970,,40.028297,-75.313413,tree,no,93
-122,LC_122.png,Frontier Elm (Ulmus 'Frontier'),,Marc Howard Ross,,40.02848,-75.313562,tree,no,94
-123,LC_123.png,Frontier Elm (Ulmus 'Frontier'),,Michael Krausz,,40.028382,-75.313473,tree,no,91
-124,,Weeping Beech (Fagus sylvatica pendula),Class of 1938,Class of 1938,,40.02801,-75.314781,tree,no,381
-125,,Copper Beech (Fagus sylvatica atropu),Class of 1914,Class of 1914,,40.0281,-75.314948,tree,no,382
+101,LC_101.png,Weeping Cherry (Prunus subhirtella pendula),Class of 1956,Class of 1956,,40.026524,-75.313885,tree,,
+102,,Weeping Cherry (Prunus subhirtella pendula),Class of 1957,Class of 1957,,0,0,tree,,
+103,LC_103.png,Cut-Leaf Beech (Fagus sylvatica 'Laciniata'),Class of 1958,Class of 1958,In Memory of / Our Classmates / Class of 1958 / May 1999,40.027552,-75.312567,tree,,150
+104,LC_104.png,Japanese Maple (Acer palmatum),,Alice Turner '60,,40.024705,-75.313791,tree,,1256
+105,,White Oak (Quercus alba),Class of 1960,Class of 1960,,0,0,tree,,
+106,LC_106.png,Frontier Elm (Ulmus 'Frontier'),Barbara Paul Robinson '62,Class of 1962 50th Reunion,,40.028026,-75.313241,tree,,
+107,,Weeping Hemlock (Tsuga canadensis),Class of 1966,Class of 1966,,0,0,tree,,
+108,,Star Magnolia (Magnolia stellata),Class of 1968,Class of 1968,,40.26948,-75.312763,tree,,142
+109,,White Oak (Quercus alba),Class of 1954,Elsie Kemp Schmitz '54,,40.027676,-75.315472,tree,,391
+110,,Japanese Snowbell (Styrax japonica),Class of 1974,Class of 1974,,40.02596,-75.31457,tree,,
+111,,Spruce (Picea),,Ernest J. Gallo,,0,0,tree,,
+112,,Sourwood (Oxydendrum arboreum),Susan Brock and Anne Warwick,Anne Murney '80,,0,0,tree,,
+113,,Red Oak (Quercus rubra),Class of 1917,Class of 1917,,0,0,tree,,
+114,,Pin Oak (Quercus palustris),Class of 1987,Class of 1987,Gift of the Class of 1987 / 'AKOUE',40.026913,-75.312779,tree,,
+115,,White Oak (Quercus alba),Class of 1960,Class of 1960,,0,0,tree,,
+116,,Callery Pear (Pyrus calleryane),Class of 1934,Class of 1934,,40.025496,-75.312488,tree,,629
+117,LC_117.png,Weeping Cherry (Prunus subhirtella pendula),Class of 1964,Class of 1964,Prunus subhirtella 'Pendula' / Weeping Higan Cherry / Celebrating the 50th Reunion / Class of 1964,40.026641,-75.313667,tree,,310
+118,LC_118.png,Weeping Cherry (Prunus subhirtella pendula),,Susan Kelly Barnes '76,"Prunus subhirtella 'Pendula' / Weeping Cherry Tree / Susan Kelly Barnes '76 / Bryn Mawr College Board of Trustees 1996-2016 / in recognition of her leadership, strategic vision, and financial acumen",40.026719,-75.313615,tree,,
+119,LC_119.png,Okame Cherry (Prunus 'Okame'),Class of 1956,Class of 1956,,40.02774,-75.31311,tree,,326
+120,,Magnolia macrophylia (replaced 2018),Class of 1900,Class of 1900,,40.027085,-75.312806,tree,,1271
+121,LC_121.png,Frontier Elm (Ulmus 'Frontier'),Class of 1970,Class of 1970,,40.028297,-75.313413,tree,,93
+122,LC_122.png,Frontier Elm (Ulmus 'Frontier'),,Marc Howard Ross,,40.02848,-75.313562,tree,,94
+123,LC_123.png,Frontier Elm (Ulmus 'Frontier'),,Michael Krausz,,40.028382,-75.313473,tree,,91
+124,,Weeping Beech (Fagus sylvatica pendula),Class of 1938,Class of 1938,,40.02801,-75.314781,tree,,381
+125,,Copper Beech (Fagus sylvatica atropu),Class of 1914,Class of 1914,,40.0281,-75.314948,tree,,382
 126,,European Beech (Fagus sylvatica),Class of 1913,,Champion Tree,40.02817,-75.315087,tree,yes,383
-127,LC_127.png,Copper Beech (Fagus sylvatica atropu),,Bryn Mawr 100th Anniversary,,40.028031,-75.315259,tree,no,385
-128,,Double-Flowered Higan Cherry (Prunus subhirtella var),Elizabeth Blackwell Drake,Katherine Mittendorf Blackwell,"In Memory of Katherine Mittendorf Blackwell, 1899",40.02711,-75.313159,tree,no,316
-129,LC_129.png,Dogwood (Cornus),Class of 1991,Ariadne Solter,In Memory of Ariadne Solter,40.027854,-75.314562,tree,no,
-130,,Cherry (Prunus),Class of 2000,President McPherson,Honoring President McPherson,0,0,tree,no,
-131,LC_131.png,Atlas Cedar (Cedras atlantica),Class of 1973,Class of 1973,,40.025712,-75.314701,tree,no,
-132,,Callery Pear (Pyrus calleryane),,President Frances F. Jones '34,Given in 1994,0,0,tree,no,
-133,LC_133.png,Black Gum (Nyssa sylvatica),Manning Award,Ellenor Morris '27,The Helen Taft Manning Award 1983 / given to Ellenor Morris '27 / in recognition of her outstanding service / to Bryn Mawr College,40.02539,-75.313168,tree,no,635
-134,LC_134.png,Red Horsechestnut (Aesculas),Class of 1921,Class of 1921,Horse Chestnut / Aesculus hippocastanum / The horse-chestnut / in the early weeks of May / is a sight for Gods and men. / Phillip Gilbert Hamerton,40.027342,-75.312708,tree,no,
-135,,Red Maple (Acer rubrum,Class of 1972,Class of 1972,,0,0,tree,no,
-136,,Dogwood (Cornus),Manning Award,Willie Mae Taylor,,40.025856,-75.312635,tree,no,1251
-137,,Dawn Redwood (Metasequoia),,Rhoads Family,"Commemorating The Rhoads Family, 300 years in America 1999",0,0,tree,no,
-138,,Giant Dogwood (Cornus contraversa),Class of 1976,Class of 1976,,40.028785,-75.313704,tree,no,87
-141,,Scholar-Tree (Sophora japonica),,"Marianne Winter Martin, Ph.D '62",,40.027375,-75.313986,tree,no,294
-142,,Prunus 'Okame',Class of 2011,Bryn Mawr 125th Anniversary,,40.02761,-75.312966,tree,no,327
-143,,Prunus 'Okame',,Karen M Tidemarsh'71 ,Dean of college 1990-2010,40.02766,-75.313006,tree,no,326
-144,,Weeping Cherry (Prunus subhirtella pendula),,,Donated by the McBride Scholars,40.02661,-75.313464,tree,no,311
-145,,Weeping Cherry (Prunus subhirtella pendula),,Barbara Paul Robinson Board of Directors,,40.02646,-75.313974,tree,no,334
-146,,Weeping Cherry (Prunus subhirtella pendula),,Elise Kemp Schmitz '54,,40.026488,-75.313913,tree,no,333
-147,,Weeping Cherry (Prunus subhirtella pendula),,Gridley McKim-Smith Prof of History of Art,,40.02633,-75.314228,tree,no,337
-148,,Picea pungens,Class of 1960,Honor of Cynthia Secor' 60 and her mother Bernice Secor,,40.025947,-75.311738,tree,no,591
-149,,Ulmus glabra,,Champion Tree,,40.024842,-75.313234,tree,yes,720
-150,,Fagus sylvatica 'Atropunicea',,Champion Tree,,40.02817,-75.315087,tree,yes,383
-151,,Prunus avium (Mazzard Cherry),,Champion Tree,,40.02765,-75.315122,tree,yes,372
-152,,Phellodendron amurense (Amur corktree),,Champion Tree,,40.02714,-75.315381,tree,yes,361
-153,,Tsuga canadensis 'Pendula',,Champion Tree,,40.02611,-75.314161,tree,yes,344
-154,,Ginkgo biloba (Maidenhair tree),,Champion Tree,,40.024612,-75.314133,tree,yes,665
+127,LC_127.png,Copper Beech (Fagus sylvatica atropu),,Bryn Mawr 100th Anniversary,,40.028031,-75.315259,tree,,385
+128,,Double-Flowered Higan Cherry (Prunus subhirtella var),Elizabeth Blackwell Drake,Katherine Mittendorf Blackwell,"In Memory of Katherine Mittendorf Blackwell, 1899",40.02711,-75.313159,tree,,316
+129,LC_129.png,Dogwood (Cornus),Class of 1991,Ariadne Solter,In Memory of Ariadne Solter,40.027854,-75.314562,tree,,
+130,,Cherry (Prunus),Class of 2000,President McPherson,Honoring President McPherson,0,0,tree,,
+131,LC_131.png,Atlas Cedar (Cedras atlantica),Class of 1973,Class of 1973,,40.025712,-75.314701,tree,,
+132,,Callery Pear (Pyrus calleryane),,President Frances F. Jones '34,Given in 1994,0,0,tree,,
+133,LC_133.png,Black Gum (Nyssa sylvatica),Manning Award,Ellenor Morris '27,The Helen Taft Manning Award 1983 / given to Ellenor Morris '27 / in recognition of her outstanding service / to Bryn Mawr College,40.02539,-75.313168,tree,,635
+134,LC_134.png,Red Horsechestnut (Aesculas),Class of 1921,Class of 1921,Horse Chestnut / Aesculus hippocastanum / The horse-chestnut / in the early weeks of May / is a sight for Gods and men. / Phillip Gilbert Hamerton,40.027342,-75.312708,tree,,
+135,,Red Maple (Acer rubrum,Class of 1972,Class of 1972,,0,0,tree,,
+136,,Dogwood (Cornus),Manning Award,Willie Mae Taylor,,40.025856,-75.312635,tree,,1251
+137,,Dawn Redwood (Metasequoia),,Rhoads Family,"Commemorating The Rhoads Family, 300 years in America 1999",0,0,tree,,
+138,,Giant Dogwood (Cornus contraversa),Class of 1976,Class of 1976,,40.028785,-75.313704,tree,,87
+141,,Scholar-Tree (Sophora japonica),,"Marianne Winter Martin, Ph.D '62",,40.027375,-75.313986,tree,,294
+,,Prunus 'Okame',Class of 2011,Bryn Mawr 125th Anniversary,,40.02761,-75.312966,tree,,327
+,,Prunus 'Okame',,Karen M Tidemarsh'71 ,Dean of college 1990-2010,40.02766,-75.313006,tree,,326
+,,Weeping Cherry (Prunus subhirtella pendula),,,Donated by the McBride Scholars,40.02661,-75.313464,tree,,311
+,,Weeping Cherry (Prunus subhirtella pendula),,Barbara Paul Robinson Board of Directors,,40.02646,-75.313974,tree,,334
+,,Weeping Cherry (Prunus subhirtella pendula),,Elise Kemp Schmitz '54,,40.026488,-75.313913,tree,,333
+,,Weeping Cherry (Prunus subhirtella pendula),,Gridley McKim-Smith Prof of History of Art,,40.02633,-75.314228,tree,,337
+,,Picea pungens,Class of 1960,Honor of Cynthia Secor' 60 and her mother Bernice Secor,,40.025947,-75.311738,tree,,591
+,,Garden,,Virginia E. Mertz 1937-77,,40.026462,-75.311635,object,,1250
+,,Ulmus glabra,,Champion Tree,,40.024842,-75.313234,tree,yes,720
+,,Fagus sylvatica 'Atropunicea',,Champion Tree,,40.02817,-75.315087,tree,yes,383
+,,Prunus avium (Mazzard Cherry),,Champion Tree,,40.02765,-75.315122,tree,yes,372
+,,Phellodendron amurense (Amur corktree),,Champion Tree,,40.02714,-75.315381,tree,yes,361
+,,Tsuga canadensis 'Pendula',,Champion Tree,,40.02611,-75.314161,tree,yes,344
+,,Ginkgo biloba (Maidenhair tree),,Champion Tree,,40.024612,-75.314133,tree,yes,665
