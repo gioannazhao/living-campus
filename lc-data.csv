@@ -82,7 +82,7 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 117,LC_117.png,Weeping Cherry (Prunus subhirtella pendula),Class of 1964,Class of 1964,Prunus subhirtella 'Pendula' / Weeping Higan Cherry / Celebrating the 50th Reunion / Class of 1964,40.026641,-75.313667,tree,no,310
 118,LC_118.png,Weeping Cherry (Prunus subhirtella pendula),,Susan Kelly Barnes '76,"Prunus subhirtella 'Pendula' / Weeping Cherry Tree / Susan Kelly Barnes '76 / Bryn Mawr College Board of Trustees 1996-2016 / in recognition of her leadership, strategic vision, and financial acumen",40.026719,-75.313615,tree,no,
 119,LC_119.png,Okame Cherry (Prunus 'Okame'),Class of 1956,Class of 1956,,40.02774,-75.31311,tree,no,326
-120,,Magnolia macrophylia (replaced 2018),Class of 1900,Class of 1900,,40.027085,-75.312806,tree,no,1271
+120,,Bigleaf Magnolia (Magnolia macrophylia),Class of 1900,Class of 1900,,40.027085,-75.312806,tree,no,1271
 121,LC_121.png,Frontier Elm (Ulmus 'Frontier'),Class of 1970,Class of 1970,,40.028297,-75.313413,tree,no,93
 122,LC_122.png,Frontier Elm (Ulmus 'Frontier'),,Marc Howard Ross,,40.02848,-75.313562,tree,no,94
 123,LC_123.png,Frontier Elm (Ulmus 'Frontier'),,Michael Krausz,,40.028382,-75.313473,tree,no,91
@@ -97,21 +97,21 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 132,,Callery Pear (Pyrus calleryane),,President Frances F. Jones '34,Given in 1994,0,0,tree,no,
 133,LC_133.png,Black Gum (Nyssa sylvatica),Manning Award,Ellenor Morris '27,The Helen Taft Manning Award 1983 / given to Ellenor Morris '27 / in recognition of her outstanding service / to Bryn Mawr College,40.02539,-75.313168,tree,no,635
 134,LC_134.png,Red Horsechestnut (Aesculas),Class of 1921,Class of 1921,Horse Chestnut / Aesculus hippocastanum / The horse-chestnut / in the early weeks of May / is a sight for Gods and men. / Phillip Gilbert Hamerton,40.027342,-75.312708,tree,no,
-135,,Red Maple (Acer rubrum,Class of 1972,Class of 1972,,0,0,tree,no,
+135,,Red Maple (Acer rubrum),Class of 1972,Class of 1972,,0,0,tree,no,
 136,,Dogwood (Cornus),Manning Award,Willie Mae Taylor,,40.025856,-75.312635,tree,no,1251
 137,,Dawn Redwood (Metasequoia),,Rhoads Family,"Commemorating The Rhoads Family, 300 years in America 1999",0,0,tree,no,
 138,,Giant Dogwood (Cornus contraversa),Class of 1976,Class of 1976,,40.028785,-75.313704,tree,no,87
 141,,Scholar-Tree (Sophora japonica),,"Marianne Winter Martin, Ph.D '62",,40.027375,-75.313986,tree,no,294
-142,,Prunus 'Okame',Class of 2011,Bryn Mawr 125th Anniversary,,40.02761,-75.312966,tree,no,327
-143,,Prunus 'Okame',,Karen M Tidemarsh'71 ,Dean of college 1990-2010,40.02766,-75.313006,tree,no,326
+142,,Okame Cherry (Prunus 'Okame'),Class of 2011,Bryn Mawr 125th Anniversary,,40.02761,-75.312966,tree,no,327
+143,,Okame Cherry (Prunus 'Okame'),,Karen M Tidemarsh'71 ,Dean of college 1990-2010,40.02766,-75.313006,tree,no,326
 144,,Weeping Cherry (Prunus subhirtella pendula),,,Donated by the McBride Scholars,40.02661,-75.313464,tree,no,311
 145,,Weeping Cherry (Prunus subhirtella pendula),,Barbara Paul Robinson Board of Directors,,40.02646,-75.313974,tree,no,334
 146,,Weeping Cherry (Prunus subhirtella pendula),,Elise Kemp Schmitz '54,,40.026488,-75.313913,tree,no,333
 147,,Weeping Cherry (Prunus subhirtella pendula),,Gridley McKim-Smith Prof of History of Art,,40.02633,-75.314228,tree,no,337
-148,,Picea pungens,Class of 1960,Honor of Cynthia Secor' 60 and her mother Bernice Secor,,40.025947,-75.311738,tree,no,591
-149,,Ulmus glabra,,Champion Tree,,40.024842,-75.313234,tree,yes,720
-150,,Fagus sylvatica 'Atropunicea',,Champion Tree,,40.02817,-75.315087,tree,yes,383
+148,,Blue Spruce (Picea pungens),Class of 1960,Honor of Cynthia Secor' 60 and her mother Bernice Secor,,40.025947,-75.311738,tree,no,591
+149,,Elm (Ulmus glabra),,Champion Tree,,40.024842,-75.313234,tree,yes,720
+150,,Beech (Fagus sylvatica 'Atropunicea'),,Champion Tree,,40.02817,-75.315087,tree,yes,383
 151,,Prunus avium (Mazzard Cherry),,Champion Tree,,40.02765,-75.315122,tree,yes,372
 152,,Phellodendron amurense (Amur corktree),,Champion Tree,,40.02714,-75.315381,tree,yes,361
-153,,Tsuga canadensis 'Pendula',,Champion Tree,,40.02611,-75.314161,tree,yes,344
+153,,Weeping Hemlock (Tsuga canadensis 'Pendula'),,Champion Tree,,40.02611,-75.314161,tree,yes,344
 154,,Ginkgo biloba (Maidenhair tree),,Champion Tree,,40.024612,-75.314133,tree,yes,665
