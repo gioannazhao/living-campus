@@ -88,7 +88,7 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 123,LC_123.png,Frontier Elm (Ulmus 'Frontier'),,Michael Krausz,,40.028382,-75.313473,tree,no,91
 124,,Weeping Beech (Fagus sylvatica pendula),Class of 1938,Class of 1938,,40.02801,-75.314781,tree,no,381
 125,,Copper Beech (Fagus sylvatica atropu),Class of 1914,Class of 1914,,40.0281,-75.314948,tree,no,382
-126,,European Beech (Fagus sylvatica),Class of 1913,,Champion Tree,40.02817,-75.315087,tree,yes,383
+126,,European Beech (Fagus sylvatica),Class of 1913,,,40.02817,-75.315087,tree,yes,383
 127,LC_127.png,Copper Beech (Fagus sylvatica atropu),,Bryn Mawr 100th Anniversary,,40.028031,-75.315259,tree,no,385
 128,,Double-Flowered Higan Cherry (Prunus subhirtella var),Elizabeth Blackwell Drake,Katherine Mittendorf Blackwell,"In Memory of Katherine Mittendorf Blackwell, 1899",40.02711,-75.313159,tree,no,316
 129,LC_129.png,Dogwood (Cornus),Class of 1991,Ariadne Solter,In Memory of Ariadne Solter,40.027854,-75.314562,tree,no,
@@ -109,9 +109,9 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 146,,Weeping Cherry (Prunus subhirtella pendula),,Elise Kemp Schmitz '54,,40.026488,-75.313913,tree,no,333
 147,,Weeping Cherry (Prunus subhirtella pendula),,Gridley McKim-Smith Prof of History of Art,,40.02633,-75.314228,tree,no,337
 148,,Blue Spruce (Picea pungens),Class of 1960,Honor of Cynthia Secor' 60 and her mother Bernice Secor,,40.025947,-75.311738,tree,no,591
-149,,Elm (Ulmus glabra),,Champion Tree,,40.024842,-75.313234,tree,yes,720
-150,,Beech (Fagus sylvatica 'Atropunicea'),,Champion Tree,,40.02817,-75.315087,tree,yes,383
-151,,Prunus avium (Mazzard Cherry),,Champion Tree,,40.02765,-75.315122,tree,yes,372
-152,,Phellodendron amurense (Amur corktree),,Champion Tree,,40.02714,-75.315381,tree,yes,361
-153,,Weeping Hemlock (Tsuga canadensis 'Pendula'),,Champion Tree,,40.02611,-75.314161,tree,yes,344
-154,,Ginkgo biloba (Maidenhair tree),,Champion Tree,,40.024612,-75.314133,tree,yes,665
+149,,Elm (Ulmus glabra),,,,40.024842,-75.313234,tree,yes,720
+150,,Beech (Fagus sylvatica 'Atropunicea'),,,,40.02817,-75.315087,tree,yes,383
+151,,Prunus avium (Mazzard Cherry),,,,40.02765,-75.315122,tree,yes,372
+152,,Phellodendron amurense (Amur corktree),,,,40.02714,-75.315381,tree,yes,361
+153,,Weeping Hemlock (Tsuga canadensis 'Pendula'),,,,40.02611,-75.314161,tree,yes,344
+154,,Ginkgo biloba (Maidenhair tree),,,,40.024612,-75.314133,tree,yes,665
