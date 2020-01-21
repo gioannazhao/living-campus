@@ -5,20 +5,20 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 3,LC_03.png,Shale-Limestone Block,,,"Florence Bascom, PhD, Geology",40.030151,-75.315949,object,no,
 4,,Sculpture,,,,40.026886,-75.315027,object,no,
 5,LC_5.png,Renovation of Sunken Garden,Class of 1996,,,40.024677,-75.314063,object,no,
-6,LC_06.png,Pond,,,,40.027586,-75.316629,object,no,
+6,LC_06.png,Nancy Vickers Pond,,,,40.027586,-75.316629,object,no,
 7,LC_7.png,Owl Statue,Jacqueline Badger Mars '61,,Mezza Luna <br>Diana - Reuter - Twining <br> Gift Jacqueline Badger Mars 1961,40.027224,-75.315325,object,no,
 8,LC_8.png,Moon Bench,Moon family cemetary plot,,,40.029288,-75.31494,object,no,1278
-9,,McPherson Garden,The Staff Association,,,0,0,object,no,
+9,,McPherson Garden,The Staff Association,,Given by the Staff Association in honor of President Mary Patterson McPherson 1997,0,0,object,no,
 10,,Lion Pillars,,,McBride Gateway <br> In Memory of Katharine Elizabeth McBride<br> President of Bryn Mawr College 1942-1970,40.026537,-75.31284,object,no,
 11,,Sculpture,"Annick M. Doeff, PhD '77",,"In Memoriam<br>Henriette Elisabeth Rollett nee Kleinsmeide Born 2-19-38, Sumatra, Indonesia <br> Interned 1942-45 During World War II on Java, Indonesia Died accidentally 8-6-1986 in Oisly, France together with her husband",40.029389,-75.314707,object,no,
-12,LC_12.png,Small Fountain,Susan Alexander '78,,"This fountain celebrates alumna mother Joan S. Alexander's passion for water, thirst for knowledge, and love of family",40.027317,-75.31509,object,no,
+12,LC_12.png,Fountain,Susan Alexander '78,,"This fountain celebrates alumna and mother Joan S. Alexander's passion for water, thirst for knowledge, and love of family",40.027317,-75.31509,object,no,
 13,LC_13.png,Large Rock,,One Century of Bryn Mawr Geology 1895-1995,,40.030228,-75.31496,object,no,
 14,,Island,,,For James and Grace,40.025929,-75.315441,object,no,
-15,LC_15.png,"Garden, Bench, and Rock",Class of 1962,,"Poetry Nook in Memory of Jane Hess Flanders, Class of 1962<br> Poet Musician and Gardener",40.026922,-75.313604,object,no,1268
+15,LC_15.png,"Garden, Bench, and Rock",Class of 1962,,"Poetry Nook in Memory of Jane Hess Flanders, Class of 1962 <br> Poet Musician and Gardener",40.026922,-75.313604,object,no,1268
 16,LC_16.png,Garden and Built-In Bench on Concrete,Class of 1934,,"In Memory of Katharine Gribbel Carter, Class of 1934",40.027065,-75.312746,object,no,1270
 17,,Garden and Bench,Class of 1987,,Catherine Martha Pugin,0,0,object,no,
 18,LC_18.png,Cloisters Fountain,Class of 1901,,,40.026853,-75.314202,object,no,
-19,LC_19.png,Garden and Bench,Charlotte Drabkin Garrell '54 and Elizabeth Garrell Bacon '92,Minnie Masin Drabkin,,40.028846,-75.313738,object,no,1276
+19,LC_19.png,Garden and Bench,Charlotte Drabkin Garrell '54 and Elizabeth Garrell Bacon '92,Minnie Masion Drabkin,Minnie Masion Drabkin Bench,40.028846,-75.313738,object,no,1276
 20,LC_20.png,Concrete Bench,Class of 1897,,"In Memoriam Elsie Campbell Sinclair Hodge, AB 1897 <br> Born Dec 15, 1874  Died in the Massacre of Christians at Paotingfu, China, June 1900",40.027588,-75.312281,object,no,1272
 21,LC_21.png,Permanent Bench,Sally and Frank Mallory,,"Julie E. Painter, AB 1959 / (1938-2004)",40.028352,-75.315414,object,no,1287
 22,LC_22.png,Permanent Bench,Class of 1964,Class of 1964 40th Reunion,,40.028884,-75.316277,object,no,1297
@@ -30,9 +30,9 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 28,LC_28.png,Moveable Bench,,Alice Long Goldsmith '26,,40.028935,-75.318001,object,no,1295
 29,LC_29.png,Moveable Bench,Manning Award,,Anne Leigh Hobson Broughton '30,40.027384,-75.313869,object,no,1245
 30,,Moveable Bench,Manning Award,,Clarissa Wardwell Pell '30,0,0,object,no,
-31,,Moveable Bench,Manning Award,,"Ellen Fernon Reisner, MA '33",0,0,object,no,
+31,,Moveable Bench,Manning Award,,"In Honor of Ellen Fernon Reisner, MA '33 <br> Helen Taft Manning Award 1988",0,0,object,no,
 32,LC_32.png,Moveable Bench,Manning Award,,In Honor of Professor Mabel L. Lang <br> Helen Taft Manning Award 1988,40.027174,-75.315193,object,no,1239
-33,LC_33.png,Moveable Bench,"Celia Wood Mallory '59, PhD '63",,"Gift of Celia Wood Mallory '59, PhD '63  in honor of  Edith H. Lanman, 1892-1992 <br> whose 43 years of devoted teaching inspired generations of chemistry students",40.029847,-75.315147,object,no,1280
+33,LC_33.png,Moveable Bench,"Clelia Wood Mallory '59, PhD '63",,"Gift of Clelia Wood Mallory '59, PhD '63  in honor of  Edith H. Lanman, 1892-1992 <br> whose 43 years of devoted teaching inspired generations of chemistry students",40.029847,-75.315147,object,no,1280
 34,LC_34.png,Moveable Bench,Class of 1960,,Presented in May 2010 by the Class of 1960 on the occasion of our 50th reunion <br> In memory of our classmates who have died since we last met under this Arbor in 2005,40.024892,-75.313861,object,no,1262
 35,LC_35.png,Moveable Bench,Class of 1960,,Presented by the Class of 1960 on the occasion of our 40th Reunion,40.024834,-75.313823,object,no,1259
 36,LC_36.png,Moveable Bench,Manning Award,,The Helen Taft Manning Award 2000 given to Barbara Janney Trimble '60 in recognition of her outstanding service to Bryn Mawr College,40.024824,-75.31388,object,no,1261
@@ -41,7 +41,7 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 39,LC_39.png,Moveable Bench,,,In honor of Filiz Eda Burhan '72 <br> Respected scholar and beloved teacher,40.027113,-75.315109,object,no,1117
 40,LC_40.png,Moveable Bench,Class of 1977,25th Reunion,Remembering deceased classmates and missing you at our 25th Reunion,40.024344,-75.313532,object,no,1266
 41,LC_41.png,Moveable Bench,Donna & Robert Griffin and Karla's friends,,"In Loving Memory of Karla A. Griffin '89, MA '93, Who Worked for the Dignity of Women and Children",40.026398,-75.314836,object,no,
-42,LC_42.png,Moveable Bench,,,In Memory of Stephanie Newman '89,40.02789,-75.312847,object,no,1275
+42,LC_42.png,Moveable Bench,,,In Memory of Stefanie Newman '89,40.02789,-75.312847,object,no,1275
 43,LC_43.png,Moveable Bench,Bey-Shan Chien Liu '98,,"To my darling daughters Colette and Juliette, here is a place where you may take a moment to dream at a place that means the world to me.",40.026033,-75.314465,object,no,1247
 44,LC_44.png,Moveable Bench,,,Estee Lauder Companies at Bryn Mawr College / Five Year Anniversary / June 2014 / In Honor of Lisa Zernicke and Nancy Cassano-George,40.025505,-75.31293,object,no,
 45,LC_45.png,Moveable Bench,,"Sue ""The Glue"" Joceville 1955-2009","Her courage, grace, kindness, and good humor will always inspire her friends and colleagues in the Gateway Building",40.024376,-75.313703,object,no,1267
@@ -49,8 +49,8 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 47,LC_47.png,Moveable Bench,,Ann Mullin Daudert,,40.030348,-75.315072,object,no,1283
 48,LC_48.png,Moveable Bench,,,"In loving memory of Professor Alain Silvera (1930-2008) who loved to learn and teach, Bryn Mawr 1961-1997",40.026753,-75.313835,object,no,1246
 49,LC_49.png,Moveable Bench,,,"Bernie ""The Plant Man"" Wiener <br> Thanks for always making me feel young",40.027294,-75.312523,object,no,1273
-50,,Bench,Manning Award,,Martha Stokes Price '47,0,0,object,no,
-51,LC_51.png,Bench,Manning Award,,Betsy Havens Watkins '61,40.02634,-75.312266,object,no,
+50,,Bench,Manning Award,,Martha Stokes Price '47 <br> Helen Taft Manning Award 1995,0,0,object,no,
+51,LC_51.png,Bench,Manning Award,,Betsy Havens Watkins '61 <br> Helen Taft Manning Award 1997,40.02634,-75.312266,object,no,
 52,,Bench,Carolyn Ehrlich Goldstein '60,,,0,0,object,no,
 53,LC_53.png,Bench,Shirley Noble,,,40.027152,-75.316168,object,no,1293
 54,LC_54.png,Bench,,,"In memory of Ethel Walker Whitestone, Science Librarian",40.30197,-75.314915,object,no,1282
@@ -73,14 +73,14 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 108,LC_108.png,Star Magnolia (Magnolia stellata),Class of 1968,Class of 1968,,40.26948,-75.312763,tree,no,142
 109,LC_109.png,White Oak (Quercus alba),Class of 1954,Elsie Kemp Schmitz '54,,40.027676,-75.315472,tree,no,391
 110,LC_110.png,Japanese Snowbell (Styrax japonica),Class of 1974,Class of 1974,,40.02596,-75.31457,tree,no,
-111,,Spruce (Picea),,Ernest J. Gallo,,0,0,tree,no,
-112,LC_112.png,Sourwood (Oxydendrum arboreum),Susan Brock and Anne Warwick,Anne Murney '80,,40.026219,-75.314128,tree,no,
+111,,Spruce (Picea),,Ernest J. Gallo,In memory of Ernest J. Gallo <br> 1999,0,0,tree,no,
+112,LC_112.png,Sourwood (Oxydendrum arboreum),Susan Brock '80 and Anne Warwick '80,Anne Murney '80,Given in memory of Anne Murney '80 <br> Spring 1991,40.026219,-75.314128,tree,no,
 113,,Red Oak (Quercus rubra),Class of 1917,Class of 1917,,0,0,tree,no,
 114,,Pin Oak (Quercus palustris),Class of 1987,,"Gift of the Class of 1987 <br> ""AKOUE""",40.026913,-75.312779,tree,no,
 115,,White Oak (Quercus alba),Class of 1960,Class of 1960,,0,0,tree,no,
-116,LC_116.png,Callery Pear (Pyrus calleryane),Class of 1934,Class of 1934,,40.025496,-75.312488,tree,no,629
+116,LC_116.png,Callery Pear (Pyrus calleryane),Class of 1934,Class of 1934,"Given by Frances F. Jones, President of the Class of 1934",40.025496,-75.312488,tree,no,629
 117,LC_117.png,Weeping Cherry (Prunus subhirtella pendula),Class of 1964,Class of 1964, Celebrating the 50th Reunion ,40.026641,-75.313667,tree,no,310
-118,LC_118.png,Weeping Cherry (Prunus subhirtella pendula),,Susan Kelly Barnes '76," Bryn Mawr College Board of Trustees 1996-2016 <br> in recognition of her leadership, strategic vision, and financial acumen",40.026719,-75.313615,tree,no,
+118,LC_118.png,Weeping Cherry (Prunus subhirtella pendula),Manning Award,Susan Kelly Barnes '76," Bryn Mawr College Board of Trustees 1996-2016 <br> in recognition of her leadership, strategic vision, and financial acumen",40.026719,-75.313615,tree,no,
 119,LC_119.png,Okame Cherry (Prunus 'Okame'),Class of 1956,Class of 1956,,40.02774,-75.31311,tree,no,326
 120,LC_120.png,Bigleaf Magnolia (Magnolia macrophylia),Class of 1900,Class of 1900,,40.027085,-75.312806,tree,no,1271
 121,LC_121.png,Frontier Elm (Ulmus 'Frontier'),Class of 1970,Class of 1970,,40.028297,-75.313413,tree,no,93
@@ -91,7 +91,7 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 126,LC_126.png,European Beech (Fagus sylvatica),Class of 1913,,,40.02817,-75.315087,tree,yes,383
 127,LC_127.png,Copper Beech (Fagus sylvatica atropu),,Bryn Mawr 100th Anniversary,,40.028031,-75.315259,tree,no,385
 128,LC_128.png,Double-Flowered Higan Cherry (Prunus subhirtella var),Elizabeth Blackwell Drake,,"In Memory of Katherine Mittendorf Blackwell, 1899",40.02711,-75.313159,tree,no,316
-129,LC_129.png,Dogwood (Cornus),Class of 1991,,In Memory of Ariadne Solter,40.027854,-75.314562,tree,no,
+129,LC_129.png,Dogwood (Cornus),Class of 1991,,In Memory of Ariadne Solter 1991,40.027854,-75.314562,tree,no,
 130,,Cherry (Prunus),Class of 2000,,Honoring President McPherson,0,0,tree,no,
 131,LC_131.png,Atlas Cedar (Cedras atlantica),Class of 1973,Class of 1973,,40.025712,-75.314701,tree,no,
 132,LC_116.png,Callery Pear (Pyrus calleryane),,President Frances F. Jones '34,Given in 1994,0,0,tree,no,
@@ -103,17 +103,25 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 138,LC_138.png,Giant Dogwood (Cornus contraversa),Class of 1976,Class of 1976,,40.028785,-75.313704,tree,no,87
 141,LC_141.png,Scholar-Tree (Sophora japonica),,"Marianne Winter Martin, Ph.D '62",,40.027375,-75.313986,tree,no,294
 142,LC_142.png,Okame Cherry (Prunus 'Okame'),Class of 2011,Bryn Mawr 125th Anniversary,,40.02761,-75.312966,tree,no,327
-143,LC_143.png,Okame Cherry (Prunus 'Okame'),,Karen M Tidemarsh'71,Dean of the College 1990-2010,40.02766,-75.313006,tree,no,326
+143,LC_143.png,Okame Cherry (Prunus 'Okame'),,Karen M. Tidmarsh '71,Dean of the College 1990-2010,40.02766,-75.313006,tree,no,326
 144,LC_144.png,Weeping Cherry (Prunus subhirtella pendula),,,Donated by the McBride Scholars,40.02661,-75.313464,tree,no,311
 145,LC_145.png,Weeping Cherry (Prunus subhirtella pendula),,Barbara Paul Robinson Board of Directors,,40.02646,-75.313974,tree,no,334
 146,LC_146.png,Weeping Cherry (Prunus subhirtella pendula),,Elise Kemp Schmitz '54,,40.026488,-75.313913,tree,no,333
 147,LC_147.png,Weeping Cherry (Prunus subhirtella pendula),,"Gridley McKim-Smith, Prof. of History of Art",,40.02633,-75.314228,tree,no,337
-148,LC_148.png,Blue Spruce (Picea pungens),Class of 1960,Honor of Cynthia Secor' 60 and her mother Bernice Secor,,40.025947,-75.311738,tree,no,591
+148,LC_148.png,Blue Spruce (Picea pungens),Class of 1960,Honor of Cynthia Secor '60 and her mother Bernice Secor,,40.025947,-75.311738,tree,no,591
 149,LC_149.png,Elm (Ulmus glabra),,,,40.024842,-75.313234,tree,yes,720
 150,LC_125.png,Beech (Fagus sylvatica 'Atropunicea'),,,,40.02817,-75.315087,tree,yes,383
 151,LC_151.png,Prunus avium (Mazzard Cherry),,,,40.02765,-75.315122,tree,yes,372
 152,LC_152.png,Phellodendron amurense (Amur corktree),,,,40.02714,-75.315381,tree,yes,361
 153,LC_153.png,Weeping Hemlock (Tsuga canadensis 'Pendula'),,,,40.02611,-75.314161,tree,yes,344
 154,LC_154.png,Ginkgo biloba (Maidenhair tree),,,,40.024612,-75.314133,tree,yes,665
-155,LC_155.png,Paperbark Maple (Acer griseum),,Steve Z Levine,Professor of History of Art and Leslie Clark Professor in the Humanities,40.02937,-75.3156,tree,no,1284
+155,LC_155.png,Paperbark Maple (Acer griseum),,Steve Z. Levine,Professor of History of Art and Leslie Clark Professor in the Humanities,40.02937,-75.3156,tree,no,1284
 156,LC_156.png,Nancy Vickers Garden,,Nancy Vickers,,40.027034,-75.315806,object,no ,
+157,LC_157.png,Bench,Alumnae Relations and Development Colleagues,Linda ten Boom,In loving memory of Linda ten Boom <br> Our dear friend and colleague for 20 years of loyalth and dedication to Bryn Mawr College,40.0261,-75.3125,object,no,
+158,,Moveable Chair,Friends of Ellis Avery '93,Ellis Avery '93,"Leaves gather, embrace the winter ground. Each year lays down fresh kisses.",0,0,object,no,
+159,,Moveable Chair,Friends of Ellis Avery '93,Ellis Avery '93,"Ellis Avery '93: Poet, Author, Scientist and Dear Friend. <br>We will always hold you in our hearts.",0,0,object,no,
+160,,Cloisters Bench,Manning Award,"Mabel Lang, PhD '43",Mabel Lang PhD 1934 <br> Helen Taft Manning Award 1988,0,0,object,no,
+161,,Wyndham Bench,Manning Award,"Ellen Fernon Reisner, MA '33","Ellen Fernon Reisner, MA '33 <br> Helen Taft Manning Award 1988",0,0,object,no,
+162,,Tree,Manning Award,Susan Savage Speers '51,Susan Savage Speers '51 <br> Helen Taft Manning Award 1999,,,,,
+163,,Tree,Manning Award,Elizabeth G. Vermey '58,Elizabeth G. Vermey '58 <br> Helen Taft Manning Award 1999,,,,,
+164,,Tree,Manning Award,"Margaret H. Healy, PhD '69","Margaret H. Healy, PhD '69 <br> Helen Taft Manning Award 1997",,,,,
