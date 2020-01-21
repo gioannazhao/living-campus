@@ -118,7 +118,7 @@
     "properties": {
     "donation_id":6,
     "img_src":"LC_06.png",
-    "item":"Pond",
+    "item":"Nancy Vickers Pond",
     "donor_id":"",
     "dedi_id":"",
     "inscription":"",
@@ -175,7 +175,7 @@
     "item":"McPherson Garden",
     "donor_id":"The Staff Association",
     "dedi_id":"",
-    "inscription":"",
+    "inscription":"Given by the Staff Association in honor of President Mary Patterson McPherson 1997",
     "icon":"object",
     "state_champ":"no",
     "arbor_note":null
@@ -226,10 +226,10 @@
     "properties": {
     "donation_id":12,
     "img_src":"LC_12.png",
-    "item":"Small Fountain",
+    "item":"Fountain",
     "donor_id":"Susan Alexander '78",
     "dedi_id":"",
-    "inscription":"This fountain celebrates alumna mother Joan S. Alexander's passion for water, thirst for knowledge, and love of family",
+    "inscription":"This fountain celebrates alumna and mother Joan S. Alexander's passion for water, thirst for knowledge, and love of family",
     "icon":"object",
     "state_champ":"no",
     "arbor_note":null
@@ -283,7 +283,7 @@
     "item":"Garden, Bench, and Rock",
     "donor_id":"Class of 1962",
     "dedi_id":"",
-    "inscription":"Poetry Nook in Memory of Jane Hess Flanders, Class of 1962<br> Poet Musician and Gardener",
+    "inscription":"Poetry Nook in Memory of Jane Hess Flanders, Class of 1962 <br> Poet Musician and Gardener",
     "icon":"object",
     "state_champ":"no",
     "arbor_note":1268
@@ -354,8 +354,8 @@
     "img_src":"LC_19.png",
     "item":"Garden and Bench",
     "donor_id":"Charlotte Drabkin Garrell '54 and Elizabeth Garrell Bacon '92",
-    "dedi_id":"Minnie Masin Drabkin",
-    "inscription":"",
+    "dedi_id":"Minnie Masion Drabkin",
+    "inscription":"Minnie Masion Drabkin Bench",
     "icon":"object",
     "state_champ":"no",
     "arbor_note":1276
@@ -571,7 +571,7 @@
     "item":"Moveable Bench",
     "donor_id":"Manning Award",
     "dedi_id":"",
-    "inscription":"Ellen Fernon Reisner, MA '33",
+    "inscription":"In Honor of Ellen Fernon Reisner, MA '33 <br> Helen Taft Manning Award 1988",
     "icon":"object",
     "state_champ":"no",
     "arbor_note":null
@@ -605,9 +605,9 @@
     "donation_id":33,
     "img_src":"LC_33.png",
     "item":"Moveable Bench",
-    "donor_id":"Celia Wood Mallory '59, PhD '63",
+    "donor_id":"Clelia Wood Mallory '59, PhD '63",
     "dedi_id":"",
-    "inscription":"Gift of Celia Wood Mallory '59, PhD '63  in honor of  Edith H. Lanman, 1892-1992 <br> whose 43 years of devoted teaching inspired generations of chemistry students",
+    "inscription":"Gift of Clelia Wood Mallory '59, PhD '63  in honor of  Edith H. Lanman, 1892-1992 <br> whose 43 years of devoted teaching inspired generations of chemistry students",
     "icon":"object",
     "state_champ":"no",
     "arbor_note":1280
@@ -769,7 +769,7 @@
     "item":"Moveable Bench",
     "donor_id":"",
     "dedi_id":"",
-    "inscription":"In Memory of Stephanie Newman '89",
+    "inscription":"In Memory of Stefanie Newman '89",
     "icon":"object",
     "state_champ":"no",
     "arbor_note":1275
@@ -913,7 +913,7 @@
     "item":"Bench",
     "donor_id":"Manning Award",
     "dedi_id":"",
-    "inscription":"Martha Stokes Price '47",
+    "inscription":"Martha Stokes Price '47 <br> Helen Taft Manning Award 1995",
     "icon":"object",
     "state_champ":"no",
     "arbor_note":null
@@ -931,7 +931,7 @@
     "item":"Bench",
     "donor_id":"Manning Award",
     "dedi_id":"",
-    "inscription":"Betsy Havens Watkins '61",
+    "inscription":"Betsy Havens Watkins '61 <br> Helen Taft Manning Award 1997",
     "icon":"object",
     "state_champ":"no",
     "arbor_note":null
@@ -1345,7 +1345,7 @@
     "item":"Spruce (Picea)",
     "donor_id":"",
     "dedi_id":"Ernest J. Gallo",
-    "inscription":"",
+    "inscription":"In memory of Ernest J. Gallo <br> 1999",
     "icon":"tree",
     "state_champ":"no",
     "arbor_note":null
@@ -1361,9 +1361,9 @@
     "donation_id":112,
     "img_src":"LC_112.png",
     "item":"Sourwood (Oxydendrum arboreum)",
-    "donor_id":"Susan Brock and Anne Warwick",
+    "donor_id":"Susan Brock '80 and Anne Warwick '80",
     "dedi_id":"Anne Murney '80",
-    "inscription":"",
+    "inscription":"Given in memory of Anne Murney '80 <br> Spring 1991",
     "icon":"tree",
     "state_champ":"no",
     "arbor_note":null
@@ -1435,7 +1435,7 @@
     "item":"Callery Pear (Pyrus calleryane)",
     "donor_id":"Class of 1934",
     "dedi_id":"Class of 1934",
-    "inscription":"",
+    "inscription":"Given by Frances F. Jones, President of the Class of 1934",
     "icon":"tree",
     "state_champ":"no",
     "arbor_note":629
@@ -1469,7 +1469,7 @@
     "donation_id":118,
     "img_src":"LC_118.png",
     "item":"Weeping Cherry (Prunus subhirtella pendula)",
-    "donor_id":"",
+    "donor_id":"Manning Award",
     "dedi_id":"Susan Kelly Barnes '76",
     "inscription":" Bryn Mawr College Board of Trustees 1996-2016 <br> in recognition of her leadership, strategic vision, and financial acumen",
     "icon":"tree",
@@ -1669,7 +1669,7 @@
     "item":"Dogwood (Cornus)",
     "donor_id":"Class of 1991",
     "dedi_id":"",
-    "inscription":"In Memory of Ariadne Solter",
+    "inscription":"In Memory of Ariadne Solter 1991",
     "icon":"tree",
     "state_champ":"no",
     "arbor_note":null
@@ -1884,7 +1884,7 @@
     "img_src":"LC_143.png",
     "item":"Okame Cherry (Prunus 'Okame')",
     "donor_id":"",
-    "dedi_id":"Karen M Tidemarsh'71",
+    "dedi_id":"Karen M. Tidmarsh '71",
     "inscription":"Dean of the College 1990-2010",
     "icon":"tree",
     "state_champ":"no",
@@ -1974,7 +1974,7 @@
     "img_src":"LC_148.png",
     "item":"Blue Spruce (Picea pungens)",
     "donor_id":"Class of 1960",
-    "dedi_id":"Honor of Cynthia Secor' 60 and her mother Bernice Secor",
+    "dedi_id":"Honor of Cynthia Secor '60 and her mother Bernice Secor",
     "inscription":"",
     "icon":"tree",
     "state_champ":"no",
@@ -2100,7 +2100,7 @@
     "img_src":"LC_155.png",
     "item":"Paperbark Maple (Acer griseum)",
     "donor_id":"",
-    "dedi_id":"Steve Z Levine",
+    "dedi_id":"Steve Z. Levine",
     "inscription":"Professor of History of Art and Leslie Clark Professor in the Humanities",
     "icon":"tree",
     "state_champ":"no",
@@ -2122,6 +2122,150 @@
     "inscription":"",
     "icon":"object",
     "state_champ":"no ",
+    "arbor_note":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.3125,40.0261 ]
+    },
+    "properties": {
+    "donation_id":157,
+    "img_src":"LC_157.png",
+    "item":"Bench",
+    "donor_id":"Alumnae Relations and Development Colleagues",
+    "dedi_id":"Linda ten Boom",
+    "inscription":"In loving memory of Linda ten Boom <br> Our dear friend and colleague for 20 years of loyalty and dedication to Bryn Mawr College",
+    "icon":"object",
+    "state_champ":"no",
+    "arbor_note":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "donation_id":158,
+    "img_src":"",
+    "item":"Moveable Chair",
+    "donor_id":"Friends of Ellis Avery '93",
+    "dedi_id":"Ellis Avery '93",
+    "inscription":"Leaves gather, embrace the winter ground. Each year lays down fresh kisses.",
+    "icon":"object",
+    "state_champ":"no",
+    "arbor_note":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "donation_id":159,
+    "img_src":"",
+    "item":"Moveable Chair",
+    "donor_id":"Friends of Ellis Avery '93",
+    "dedi_id":"Ellis Avery '93",
+    "inscription":"Ellis Avery '93: Poet, Author, Scientist and Dear Friend. <br>We will always hold you in our hearts.",
+    "icon":"object",
+    "state_champ":"no",
+    "arbor_note":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "donation_id":160,
+    "img_src":"",
+    "item":"Cloisters Bench",
+    "donor_id":"Manning Award",
+    "dedi_id":"Mabel Lang, PhD '43",
+    "inscription":"Mabel Lang PhD 1934 <br> Helen Taft Manning Award 1988",
+    "icon":"object",
+    "state_champ":"no",
+    "arbor_note":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "donation_id":161,
+    "img_src":"",
+    "item":"Wyndham Bench",
+    "donor_id":"Manning Award",
+    "dedi_id":"Ellen Fernon Reisner, MA '33",
+    "inscription":"Ellen Fernon Reisner, MA '33 <br> Helen Taft Manning Award 1988",
+    "icon":"object",
+    "state_champ":"no",
+    "arbor_note":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "donation_id":162,
+    "img_src":"",
+    "item":"Tree ( )",
+    "donor_id":"Manning Award",
+    "dedi_id":"Susan Savage Speers '51",
+    "inscription":"Susan Savage Speers '51 <br> Helen Taft Manning Award 1999",
+    "icon":"tree",
+    "state_champ":"no",
+    "arbor_note":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "donation_id":163,
+    "img_src":"",
+    "item":"Tree ( )",
+    "donor_id":"Manning Award",
+    "dedi_id":"Elizabeth G. Vermey '58",
+    "inscription":"Elizabeth G. Vermey '58 <br> Helen Taft Manning Award 1999",
+    "icon":"tree",
+    "state_champ":"no",
+    "arbor_note":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "donation_id":164,
+    "img_src":"",
+    "item":"Tree ( )",
+    "donor_id":"Manning Award",
+    "dedi_id":"Margaret H. Healy, PhD '69",
+    "inscription":"Margaret H. Healy, PhD '69 <br> Helen Taft Manning Award 1997",
+    "icon":"tree",
+    "state_champ":"no",
     "arbor_note":null
     }
   }
