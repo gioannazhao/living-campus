@@ -99,7 +99,7 @@
     },
     "properties": {
     "donation_id":5,
-    "img_src":"LC_5.png",
+    "img_src":"LC_05.png",
     "item":"Renovation of Sunken Garden",
     "donor_id":"Class of 1996",
     "dedi_id":"",
@@ -135,7 +135,7 @@
     },
     "properties": {
     "donation_id":7,
-    "img_src":"LC_7.png",
+    "img_src":"LC_07.png",
     "item":"Owl Statue",
     "donor_id":"Jacqueline Badger Mars '61",
     "dedi_id":"",
@@ -153,7 +153,7 @@
     },
     "properties": {
     "donation_id":8,
-    "img_src":"LC_8.png",
+    "img_src":"LC_08.png",
     "item":"Moon Bench",
     "donor_id":"Moon family cemetary plot",
     "dedi_id":"",
@@ -2137,7 +2137,7 @@
     "item":"Bench",
     "donor_id":"Alumnae Relations and Development Colleagues",
     "dedi_id":"Linda ten Boom",
-    "inscription":"In loving memory of Linda ten Boom <br> Our dear friend and colleague for 20 years of loyalty and dedication to Bryn Mawr College",
+    "inscription":"In loving memory of Linda ten Boom <br> Our dear friend and colleague for 20 years of loyalth and dedication to Bryn Mawr College",
     "icon":"object",
     "state_champ":"no",
     "arbor_note":null
