@@ -37,7 +37,7 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 35,LC_35.png,Moveable Bench,Class of 1960,,Presented by the Class of 1960 on the occasion of our 40th Reunion,40.024834,-75.313823,object,no,1259
 36,LC_36.png,Moveable Bench,Manning Award,,The Helen Taft Manning Award 2000 given to Barbara Janney Trimble '60 in recognition of her outstanding service to Bryn Mawr College,40.024824,-75.31388,object,no,1261
 37,LC_37.png,Moveable Bench,Class of 1961, 40th Reunion,In Remembrance of Departed Classmates and in Celebration of Their Lives,40.024427,-75.313537,object,no,1265
-38,LC_38.png,Moveable Bench,Manning Award,,Barbara Bauman Morrison '62 <br> Helen Taft Manning Award 2015 ,40.02609,-75.314139,object,no,1248
+38,LC_38.png,Moveable Bench,Manning Award,,Barbara Bauman Morrison '62 <br> Helen Taft Manning Award 2015,40.02609,-75.314139,object,no,1248
 39,LC_39.png,Moveable Bench,,,In honor of Filiz Eda Burhan '72 <br> Respected scholar and beloved teacher,40.027113,-75.315109,object,no,1117
 40,LC_40.png,Moveable Bench,Class of 1977,25th Reunion,Remembering deceased classmates and missing you at our 25th Reunion,40.024344,-75.313532,object,no,1266
 41,LC_41.png,Moveable Bench,Donna & Robert Griffin and Karla's friends,,"In Loving Memory of Karla A. Griffin '89, MA '93, Who Worked for the Dignity of Women and Children",40.026398,-75.314836,object,no,
@@ -117,11 +117,11 @@ donation_id,img_src,item,donor_id,dedi_id,inscription,lat,lon,icon,state_champ,a
 154,LC_154.png,Ginkgo biloba (Maidenhair tree),,,,40.024612,-75.314133,tree,yes,665
 155,LC_155.png,Paperbark Maple (Acer griseum),,Steve Z. Levine,Professor of History of Art and Leslie Clark Professor in the Humanities,40.02937,-75.3156,tree,no,1284
 156,LC_156.png,Nancy Vickers Garden,,Nancy Vickers,,40.027034,-75.315806,object,no ,
-157,LC_157.png,Bench,Alumnae Relations and Development Colleagues,Linda ten Boom,In loving memory of Linda ten Boom <br> Our dear friend and colleague for 20 years of loyalty and dedication to Bryn Mawr College,40.0261,-75.3125,object,no,
+157,LC_157.png,Bench,Alumnae Relations and Development Colleagues,Linda ten Boom,In loving memory of Linda ten Boom <br> Our dear friend and colleague for 20 years of loyalth and dedication to Bryn Mawr College,40.0261,-75.3125,object,no,
 158,,Moveable Chair,Friends of Ellis Avery '93,Ellis Avery '93,"Leaves gather, embrace the winter ground. Each year lays down fresh kisses.",0,0,object,no,
 159,,Moveable Chair,Friends of Ellis Avery '93,Ellis Avery '93,"Ellis Avery '93: Poet, Author, Scientist and Dear Friend. <br>We will always hold you in our hearts.",0,0,object,no,
 160,,Cloisters Bench,Manning Award,"Mabel Lang, PhD '43",Mabel Lang PhD 1934 <br> Helen Taft Manning Award 1988,0,0,object,no,
 161,,Wyndham Bench,Manning Award,"Ellen Fernon Reisner, MA '33","Ellen Fernon Reisner, MA '33 <br> Helen Taft Manning Award 1988",0,0,object,no,
-162,,Tree ( ),Manning Award,Susan Savage Speers '51,Susan Savage Speers '51 <br> Helen Taft Manning Award 1999,0,0,tree,no,
-163,,Tree ( ),Manning Award,Elizabeth G. Vermey '58,Elizabeth G. Vermey '58 <br> Helen Taft Manning Award 1999,0,0,tree,no,
-164,,Tree ( ),Manning Award,"Margaret H. Healy, PhD '69","Margaret H. Healy, PhD '69 <br> Helen Taft Manning Award 1997",0,0,tree,no,
+162,,Tree,Manning Award,Susan Savage Speers '51,Susan Savage Speers '51 <br> Helen Taft Manning Award 1999,0,0,tree,no,
+163,,Tree,Manning Award,Elizabeth G. Vermey '58,Elizabeth G. Vermey '58 <br> Helen Taft Manning Award 1999,0,0,tree,no,
+164,,Tree,Manning Award,"Margaret H. Healy, PhD '69","Margaret H. Healy, PhD '69 <br> Helen Taft Manning Award 1997",0,0,tree,no,
